@@ -1,16 +1,27 @@
-## Hi there 👋
+# Lucas Noguti
+### Desenvolvedor de Software | Alest Consultoria
 
-<!--
-**noguti-alest/noguti-alest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em criar soluções eficientes e de alta qualidade. Na Alest, meu objetivo é aplicar minhas habilidades técnicas para construir produtos que gerem valor real para os clientes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Principais Habilidades
+
+* **Linguagens:** `JavaScript`/`TypeScript`, `Python`, `SQL`
+* **Tecnologias:** `React.js`, `Node.js`, `Spring Framework`
+* **Bancos de Dados:** `PostgreSQL`, `MySQL`
+* **Ferramentas:** `Git`, Metodologias Ágeis
+
+---
+
+### Experiência Relevante
+
+* **Desenvolvedor de Software | Alest Consultoria** (Atual)
+    * Atuação em projetos de transformação digital e desenvolvimento de novas soluções para clientes.
+
+---
+
+### Contato
+
+* **LinkedIn:** `linkedin.com/in/lucas-noguti`
+* **GitHub:** `github.com/lucas-noguti`
